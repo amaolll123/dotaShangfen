@@ -20,8 +20,10 @@
 - 大圣
 	> 用好自己的捆
 - 蓝猫
-	> 
+	> 第一件刃甲，有奇效
+	中期：tc蓝猫，有d
+	后期：要么狂战大炮不露头，要么冰眼莲花撑肉
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NTU4ODcwMzAsLTk5OTYwMzg1MywtMT
+eyJoaXN0b3J5IjpbLTEwNDkzOTA5MTcsLTk5OTYwMzg1MywtMT
 YzMjgwMDM5MiwxMTUzMDcxMzMxXX0=
 -->
