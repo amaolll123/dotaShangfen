@@ -20,12 +20,13 @@
 - 大圣
 	> 用好自己的捆
 - 蓝猫
-	> 第一件刃甲，有奇效
+	> 前期：第一件刃甲，有奇效
 	中期：tc蓝猫，有3秒
 	后期：要么狂战大炮不露头，要么冰眼莲花撑肉
 - 影魔
-	> 
+	> 前期：补刀斧强行补刀
+	5级细节，强吃x炮，
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUzNzY0MDE3MiwtOTk5NjAzODUzLC0xNj
+eyJoaXN0b3J5IjpbMTExNDg3NTYzNCwtOTk5NjAzODUzLC0xNj
 MyODAwMzkyLDExNTMwNzEzMzFdfQ==
 -->
