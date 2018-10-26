@@ -21,9 +21,11 @@
 	> 用好自己的捆
 - 蓝猫
 	> 第一件刃甲，有奇效
-	中期：tc蓝猫，有d
+	中期：tc蓝猫，有3秒
 	后期：要么狂战大炮不露头，要么冰眼莲花撑肉
+- 影魔
+	> 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNDkzOTA5MTcsLTk5OTYwMzg1MywtMT
-YzMjgwMDM5MiwxMTUzMDcxMzMxXX0=
+eyJoaXN0b3J5IjpbLTUzNzY0MDE3MiwtOTk5NjAzODUzLC0xNj
+MyODAwMzkyLDExNTMwNzEzMzFdfQ==
 -->
