@@ -29,8 +29,10 @@
 	中期: 需要刃甲
 - tk
 	> 12对点的打不过，刷机器人的等激光用过了上
--
+- 卡尔
+	> 不要加e，吹风秒破
+	tc耗血，cd转好了飞hui
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODcwMzAxNDcxLDE2MjkwODI4MzQsLTk5OT
-YwMzg1MywtMTYzMjgwMDM5MiwxMTUzMDcxMzMxXX0=
+eyJoaXN0b3J5IjpbMjAwMTc1MDgyOCwxNjI5MDgyODM0LC05OT
+k2MDM4NTMsLTE2MzI4MDAzOTIsMTE1MzA3MTMzMV19
 -->
