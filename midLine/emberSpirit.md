@@ -28,8 +28,9 @@
 	5级细节，强吃x炮，开火盾近身打
 	中期: 需要刃甲
 - tk
-	> 
+	> 12对点的打不过，刷机器人的等激光用过了上
+-
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYyOTA4MjgzNCwtOTk5NjAzODUzLC0xNj
-MyODAwMzkyLDExNTMwNzEzMzFdfQ==
+eyJoaXN0b3J5IjpbODcwMzAxNDcxLDE2MjkwODI4MzQsLTk5OT
+YwMzg1MywtMTYzMjgwMDM5MiwxMTUzMDcxMzMxXX0=
 -->
