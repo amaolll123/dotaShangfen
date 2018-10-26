@@ -12,14 +12,15 @@
 ## 对线
 线上能力偏弱，早出瓶子
 
-- 高消耗系 Lina，SF，
+- 高消耗系 Lina，SF
 	>  运药补兵，不亏
 - 宙斯
 	> 好打，圆盾换魔棒
 		g完破不了火盾，当面贴大药
 - 大圣
-	> 
+	> 用好自己的捆
+- 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk5OTYwMzg1MywtMTYzMjgwMDM5MiwxMT
-UzMDcxMzMxXX0=
+eyJoaXN0b3J5IjpbNTM3MTgxNzY0LC05OTk2MDM4NTMsLTE2Mz
+I4MDAzOTIsMTE1MzA3MTMzMV19
 -->
