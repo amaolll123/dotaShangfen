@@ -19,8 +19,9 @@
 		g完破不了火盾，当面贴大药
 - 大圣
 	> 用好自己的捆
-- 
+- 蓝猫
+	> 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTM3MTgxNzY0LC05OTk2MDM4NTMsLTE2Mz
-I4MDAzOTIsMTE1MzA3MTMzMV19
+eyJoaXN0b3J5IjpbLTE0NTU4ODcwMzAsLTk5OTYwMzg1MywtMT
+YzMjgwMDM5MiwxMTUzMDcxMzMxXX0=
 -->
