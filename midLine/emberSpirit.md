@@ -11,7 +11,9 @@
 		对面超强先手，走跳刀
 ## 对线
 - 宙斯
-	> 好打，圆盾换魔棒，g完破不了火盾，当面贴大药，
+	> 好打，圆盾换魔棒
+		g完破不了火盾，当面贴大药
+- 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkxOTY4ODkyMywxMTUzMDcxMzMxXX0=
+eyJoaXN0b3J5IjpbLTE2MzI4MDAzOTIsMTE1MzA3MTMzMV19
 -->
