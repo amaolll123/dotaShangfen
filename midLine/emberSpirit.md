@@ -11,11 +11,14 @@
 		对面超强先手，走跳刀
 ## 对线
 线上能力偏弱，早出瓶子
+
+- 高消耗系 Lina，SF，
+	>  运药补兵，不亏
 - 宙斯
 	> 好打，圆盾换魔棒
 		g完破不了火盾，当面贴大药
 - 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODE2MjU0MTU0LC0xNjMyODAwMzkyLDExNT
-MwNzEzMzFdfQ==
+eyJoaXN0b3J5IjpbLTE5Njk1ODAyNjEsLTE2MzI4MDAzOTIsMT
+E1MzA3MTMzMV19
 -->
