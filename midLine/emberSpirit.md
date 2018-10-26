@@ -31,8 +31,9 @@
 	> 12对点的打不过，刷机器人的等激光用过了上
 - 卡尔
 	> 不要加e，吹风秒破
-	tc耗血，cd转好了飞hui
+	tc耗血，cd转好了飞魂杀
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAwMTc1MDgyOCwxNjI5MDgyODM0LC05OT
+eyJoaXN0b3J5IjpbMTMzMTExNjYzNiwxNjI5MDgyODM0LC05OT
 k2MDM4NTMsLTE2MzI4MDAzOTIsMTE1MzA3MTMzMV19
 -->
