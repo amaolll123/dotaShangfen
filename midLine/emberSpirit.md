@@ -33,8 +33,8 @@
 	> 不要加e，吹风秒破
 	tc耗血，cd转好了飞魂杀
 - 女王
-	> bu'xue
+	> 不学火盾
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgzNTc0ODUyNywxNjI5MDgyODM0LC05OT
-k2MDM4NTMsLTE2MzI4MDAzOTIsMTE1MzA3MTMzMV19
+eyJoaXN0b3J5IjpbLTEwOTI3MzU4MTUsMTYyOTA4MjgzNCwtOT
+k5NjAzODUzLC0xNjMyODAwMzkyLDExNTMwNzEzMzFdfQ==
 -->
