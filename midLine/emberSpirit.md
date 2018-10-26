@@ -6,10 +6,12 @@
 	>草鞋，瓶子，天鹰，大魔棒
 - 中期
 	> 电锤，（刃甲），飞鞋
-- 莲花，冰眼，林肯，bkb
--对面超强先手，走跳刀
-2）对线
-		-宙斯： 好打，圆盾换魔棒，g完破不了火盾，当面贴大药，
+- 后期
+	> 莲花，冰眼，林肯，bkb
+		对面超强先手，走跳刀
+## 对线
+- 宙斯
+	> 好打，圆盾换魔棒，g完破不了火盾，当面贴大药，
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0ODg4NjgwNzAsMTE1MzA3MTMzMV19
+eyJoaXN0b3J5IjpbMTkxOTY4ODkyMywxMTUzMDcxMzMxXX0=
 -->
