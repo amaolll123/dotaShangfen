@@ -35,11 +35,11 @@
 - 女王
 	> 不学火盾,tc消耗
 - 米波
-	> 
+	> 不出电锤，直接吹风，逃活命
 - 黑鸟
-- 
+- 火枪
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2OTk1MDc0OTUsLTE4NTUzNzE2NzUsLT
-EwOTI3MzU4MTUsMTYyOTA4MjgzNCwtOTk5NjAzODUzLC0xNjMy
-ODAwMzkyLDExNTMwNzEzMzFdfQ==
+eyJoaXN0b3J5IjpbNDkxNzcxODY5LC0xNjk5NTA3NDk1LC0xOD
+U1MzcxNjc1LC0xMDkyNzM1ODE1LDE2MjkwODI4MzQsLTk5OTYw
+Mzg1MywtMTYzMjgwMDM5MiwxMTUzMDcxMzMxXX0=
 -->
