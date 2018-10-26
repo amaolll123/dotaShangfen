@@ -25,8 +25,10 @@
 	后期：要么狂战大炮不露头，要么冰眼莲花撑肉
 - 影魔
 	> 前期：补刀斧强行补刀
-	5级细节，强吃x炮，
+	5级细节，强吃x炮，开火盾近身打
+	中期: 需要刃甲
+- 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTExNDg3NTYzNCwtOTk5NjAzODUzLC0xNj
-MyODAwMzkyLDExNTMwNzEzMzFdfQ==
+eyJoaXN0b3J5IjpbNjcyMzk3NTU3LC05OTk2MDM4NTMsLTE2Mz
+I4MDAzOTIsMTE1MzA3MTMzMV19
 -->
