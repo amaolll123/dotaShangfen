@@ -10,10 +10,12 @@
 	> 莲花，冰眼，林肯，bkb
 		对面超强先手，走跳刀
 ## 对线
+线上能力偏弱，早出瓶子
 - 宙斯
 	> 好打，圆盾换魔棒
 		g完破不了火盾，当面贴大药
 - 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MzI4MDAzOTIsMTE1MzA3MTMzMV19
+eyJoaXN0b3J5IjpbODE2MjU0MTU0LC0xNjMyODAwMzkyLDExNT
+MwNzEzMzFdfQ==
 -->
