@@ -27,8 +27,9 @@
 	> 前期：补刀斧强行补刀
 	5级细节，强吃x炮，开火盾近身打
 	中期: 需要刃甲
-- 
+- tk
+	> 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjcyMzk3NTU3LC05OTk2MDM4NTMsLTE2Mz
-I4MDAzOTIsMTE1MzA3MTMzMV19
+eyJoaXN0b3J5IjpbMTYyOTA4MjgzNCwtOTk5NjAzODUzLC0xNj
+MyODAwMzkyLDExNTMwNzEzMzFdfQ==
 -->
